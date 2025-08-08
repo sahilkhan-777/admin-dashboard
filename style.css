@@ -182,7 +182,7 @@ header .bottom .btn-container button:hover{
     border-radius: 8px;
 }
 .announcement-container{
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
 }
 .right-sidebar .sub-container .announcement-container .item{
     padding: 0.5rem 0;
@@ -197,7 +197,6 @@ header .bottom .btn-container button:hover{
     display: flex;
     gap: 1rem;
     align-items: center;
-    /* border: 1px solid red; */
     margin-bottom: 1rem;
 }
 .right-sidebar .sub-container .trends-container .users:last-child{
